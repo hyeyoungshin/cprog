@@ -1,4 +1,4 @@
-c programming practice based on **A TUTORIAL ON POINTERS AND ARRAYS IN C**
+C programming practice based on **A TUTORIAL ON POINTERS AND ARRAYS IN C**
 
 by Ted Jensen
 Version 1.2 (PDF Version)
